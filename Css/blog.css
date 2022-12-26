@@ -1,0 +1,15 @@
+#blog-heading{
+    position: relative;
+    min-height: 200px;
+    background-image: url(../İmg/bg2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% -200px;
+    text-align: center;
+    color: white; 
+}
+.date{
+    background: #1f3345;
+    color: #fff;
+    text-align: center;
+}
